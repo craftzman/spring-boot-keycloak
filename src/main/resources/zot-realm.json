@@ -62,7 +62,7 @@
       "attributes" : { }
     } ],
     "client" : {
-      "newClient" : [ ],
+      "pilates" : [ ],
       "realm-management" : [ {
         "id" : "5d00243f-ceec-4b0c-995e-d86d5b8a0ae6",
         "name" : "view-clients",
